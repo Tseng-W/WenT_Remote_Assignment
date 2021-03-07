@@ -5,7 +5,7 @@
  
  ## Command Line Basics
  ![videoProgress_commandLineSystem](videoProgress_commandLineSystem.png)
- 
+ 	
  ## Beginning Git
  ![videoProgress_beginningGit](videoProgress_beginningGit.png)
  
