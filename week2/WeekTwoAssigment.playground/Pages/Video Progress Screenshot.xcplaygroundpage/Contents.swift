@@ -3,7 +3,7 @@
 /*:
  ## Programming in Swift
  ![Programming in Swift](ProgrammingInSwift.png)
- 
+ 
  ## Beginning Table Views
  ![BeginningTableViews](BeginningTableViews.png)
  
